@@ -81,6 +81,7 @@ class SignInPage extends StatelessWidget {
             textColor: Colors.white,
             onPressed: () {},
           ),
+          Image.asset('images/google-logo.png')
         ],
       ),
     );
